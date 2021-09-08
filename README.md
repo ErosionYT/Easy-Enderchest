@@ -1,5 +1,5 @@
 # Easy-Enderchest
-A easy pmmp command to add an enderchest command to your server.
+An easy pmmp command to add an enderchest command to your server.
 
 ## Permissions
 ``enderchest.command``
